@@ -1,0 +1,40 @@
+Short Answer
+
+1.What Does if __name__ == "__main__" Do in Python?
+Ans: It ensures that a specific part of the code only runs if the file is executed directly, not when it is imported as a module in another file.
+
+2.What is confusion matrix? How does the model behave if True-Negatives are high?
+Ans: A confusion matrix shows how well a model classifies data into correct or incorrect categories. If True-Negatives (correctly identified negatives) are high, it means the model is good at correctly identifying the negative cases.
+
+3.How does camera calibration help in underwater 3D reconstruction?
+Ans: Correct camera calibration can helps correct distortions, such as refraction, caused by water and the camera lens.
+
+4.What is a sigmoid function and how does it help in neural networks?
+Ans: The sigmoid function squashes numbers into a range between 0 and 1, helping the neural network make decisions like Yes or No or useful in binary classification.
+
+5.What is unsupervised learning? Are object detection algorithms supervised or unsupervised?
+Ans: Unsupervised learning is when the model learns patterns from data without labeled examples. Object detection is supervised because labeled images are used for learn what objects look like.
+
+6.What is logistic regression?
+Ans: Logistic regression is a statistical method for binary classification. It is used for binary outcome (0 or 1) classification using a logistic function.
+
+7.What is underfitting and overfitting?
+Ans: Underfitting: Underfitting occurs when a model is too simple to capture the underlying patterns in the data, resulting in poor performance on both the training and test datasets.
+Methods to solve underfitting are:
+i) By increasing the quality and quantity of Data.
+ii)  By Making Model more complex.
+
+Overfitting: Overfitting happens when a model becomes too complex, thus capturing the noise and details specific to the training data, leading to high performance on the training set but poor generalization to unseen data.
+Methods to solve underfitting are:
+i) Regularization
+ii) Data augmentation
+
+8.What is cross-validation?
+Ans: A way to test a model by splitting the data into parts, training on some and testing on others, to see how well it will work on new data.
+
+9.What is Secure Shell Protocol?
+Ans: SSH is a secure way to remotely access and control computers over the internet. It is used for securely accessing remote machines, executing commands, and transferring files by encrypting the communication between the client and the server. SSH is commonly used for secure login to servers and network devices.
+
+10.What is the difference between GNU and CMake?
+GNU - GNU is a free and open-source software project that provides a collection of tools and software for operating systems, including the GNU Compiler Collection (GCC). It forms the basis of many Linux distributions.
+CMake - CMake is a cross-platform tool used to manage the build process of software projects. It is a build system generator that creates build scripts for different environments

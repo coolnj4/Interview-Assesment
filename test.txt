@@ -1,0 +1,18 @@
+Short Answer
+
+1.What Does if __name__ == "__main__" Do in Python?
+2.What is confusion matrix? How does the model behave if True-Negatives are high?
+3.How does camera calibration help in underwater 3D reconstruction?
+4.What is a sigmoid function and how does it help in neural networks?
+5.What is unsupervised learning? Are object detection algorithms supervised or unsupervised?
+6.What is logistic regression?
+7.What is underfitting and overfitting?
+8.What is cross-validation?
+9.What is Secure Shell Protocol?
+10.What is the difference between GNU and CMake?
+
+Problem Statement
+
+1.Read the file 'data.xyz' attached with the document which has xyz data with respect to different timestamps. Segment at 18:51:35.232 and 19:02:14.621 and give the output as three segments.
+2.Read the image 'oculus.jpg' and try different algorithms for enhancing and denoising and compare the results.
+3.Create a simple neural network which can predict positive and negative integer using tensorflow, pytorch or any library. 
